@@ -209,3 +209,8 @@ Nextflow workflow information and guidance was gratefully received from Phil Pal
 and @cgpu Christina Chatzipantsiou has been my infallible guide.  @cgpu Christina Chatzipantsiou taught with me the Dry Bench Skills for the Researchers and Elements of Style class at the ISCB Academy.
 
 Common Workflow script guidance was gratefully received from Miguel Brown at Children's Hospital of Philadelphia.
+
+
+# Useful Git Commands
+
+A list of commonly used [Git commands](https://github.com/joshnh/Git-Commands)
